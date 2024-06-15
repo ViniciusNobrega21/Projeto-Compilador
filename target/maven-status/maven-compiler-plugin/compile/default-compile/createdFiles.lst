@@ -1,0 +1,16 @@
+br\uepb\compiladores\expr\parser\TabelaDeSimbolos.class
+br\uepb\compiladores\expr\parser\ExpressoesBaseVisitor.class
+br\uepb\compiladores\expr\parser\ExpressoesParser$ExpContext.class
+br\uepb\compiladores\expr\parser\ExpressoesLexer.class
+br\uepb\compiladores\expr\parser\ExpressoesParser$TermoContext.class
+br\uepb\compiladores\expr\parser\Principal.class
+br\uepb\compiladores\expr\parser\ExpressoesBaseListener.class
+br\uepb\compiladores\expr\parser\ExpressoesParser$ListaDeclContext.class
+br\uepb\compiladores\expr\parser\Escopos.class
+br\uepb\compiladores\expr\parser\ExpressoesParser$DeclContext.class
+br\uepb\compiladores\expr\parser\ExpressoesParser$ProgramaContext.class
+br\uepb\compiladores\expr\parser\ExpressoesListener.class
+br\uepb\compiladores\expr\parser\ExpressoesVisitor.class
+br\uepb\compiladores\expr\parser\Calculador.class
+br\uepb\compiladores\expr\parser\EntradaTabelaDeSimbolos.class
+br\uepb\compiladores\expr\parser\ExpressoesParser.class
